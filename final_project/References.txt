@@ -1,0 +1,8 @@
+I have referred to following websites in completing the project
+
+http://scikit-learn.org/stable/modules/feature_selection.html
+
+https://discussions.udacity.com/t/gridsearchcv-and-testingtraining-data/36107
+
+https://stackoverflow.com/questions/38709690/scikit-learn-using-gridsearchcv-on-decisiontreeclassifier
+
